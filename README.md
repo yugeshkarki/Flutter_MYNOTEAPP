@@ -19,6 +19,7 @@
 - `providers/` Auth, Notes and Theme state (Provider / ChangeNotifier)
 - `theme/` Light and Dark ThemeData
 - `screens/` Auth gate, Auth (sign in / sign up), Home (list), Note form (create / edit)
+
 ## Application Demo
 
 ![Application Demo](screenshots/demo.gif)
